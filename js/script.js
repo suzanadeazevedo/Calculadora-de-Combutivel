@@ -16,8 +16,4 @@ function calculate(){
     document.getElementById("text_area").innerText=text
 }
 
-function ClearFields(){
-    document.getElementById("etanol").value=""
-    document.getElementById("gasolina").value=""
-    document.getElementById("text_area").value=""
-}
+
